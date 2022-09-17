@@ -52,7 +52,9 @@ export default function HomePage() {
 					<h2>PROGRAMS</h2>
 					<div className={s.programsContainer}>
 						<div className={s.program}>
-							<h3>Nutrition</h3>
+							<Link to="/program/nutrition">
+								<h3>Nutrition</h3>
+							</Link>
 							<img src={nutrition} alt="nutrition" />
 							<p>
 								GWAVISION nutritional strategies for weight management and to
@@ -62,7 +64,9 @@ export default function HomePage() {
 							<Link to="/program/nutrition">READ MORE</Link>
 						</div>
 						<div className={s.program}>
-							<h3>Fitness</h3>
+							<Link to="/program/fitness">
+								<h3>Fitness</h3>
+							</Link>
 							<img src={fitness} alt="fitness" />
 							<p>
 								Physical exercise and fitness is the greatest preventive
@@ -72,7 +76,9 @@ export default function HomePage() {
 							<Link to="/program/fitness">READ MORE</Link>
 						</div>
 						<div className={s.program}>
-							<h3>Nutrition</h3>
+							<Link to="/program/sleep">
+								<h3>Sleep</h3>
+							</Link>
 							<img src={sleep} alt="sleep" />
 							<p>
 								Developing good sleep hygiene is a very important part of
@@ -82,7 +88,9 @@ export default function HomePage() {
 							<Link to="/program/sleep">READ MORE</Link>
 						</div>
 						<div className={s.program}>
-							<h3>Skincare</h3>
+							<Link to="/program/skincare">
+								<h3>Skin Care</h3>
+							</Link>
 							<img src={skincare} alt="skincare" />
 							<p>Coming Soon!</p>
 						</div>
