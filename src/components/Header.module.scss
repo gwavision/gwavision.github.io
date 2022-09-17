@@ -1,9 +1,18 @@
-.header {
-	max-width: 80rem;
-	margin: 0 auto;
+.banner {
+}
 
-	display: flex;
-	justify-content: space-between;
+.nav {
+	position: sticky;
+	top: 0px;
+	background-color: white;
+
+	& > div {
+		max-width: 70rem;
+		margin: 0 auto;
+
+		display: flex;
+		justify-content: space-between;
+	}
 }
 
 .logo {
