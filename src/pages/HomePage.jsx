@@ -65,9 +65,9 @@ export default function HomePage() {
 							<h3>Fitness</h3>
 							<img src={fitness} alt="fitness" />
 							<p>
-								GWAVISION nutritional strategies for weight management and to
-								accomplish maximum health, is based on two important concepts,
-								which are “primary...
+								Physical exercise and fitness is the greatest preventive
+								medicine and an excellent method to achieve superior health.
+								GWAVISION strongly ...
 							</p>
 							<Link to="/program/fitness">READ MORE</Link>
 						</div>
@@ -75,21 +75,16 @@ export default function HomePage() {
 							<h3>Nutrition</h3>
 							<img src={sleep} alt="sleep" />
 							<p>
-								GWAVISION nutritional strategies for weight management and to
-								accomplish maximum health, is based on two important concepts,
-								which are “primary...
+								Developing good sleep hygiene is a very important part of
+								GWAVISION weight management concept. Several scientific research
+								studies have ...
 							</p>
 							<Link to="/program/sleep">READ MORE</Link>
 						</div>
 						<div className={s.program}>
 							<h3>Skincare</h3>
 							<img src={skincare} alt="skincare" />
-							<p>
-								GWAVISION nutritional strategies for weight management and to
-								accomplish maximum health, is based on two important concepts,
-								which are “primary...
-							</p>
-							<Link to="/program/skincare">READ MORE</Link>
+							<p>Coming Soon!</p>
 						</div>
 					</div>
 				</section>
