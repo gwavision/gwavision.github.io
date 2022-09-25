@@ -1,0 +1,33 @@
+.page {
+	max-width: 50rem;
+	margin: 0 auto;
+
+	p {
+		line-height: 1.5rem;
+	}
+}
+
+.main {
+	display: flex;
+	align-items: flex-start;
+	gap: 8rem;
+
+	.description {
+		display: flex;
+		flex-direction: column;
+		align-items: flex-start;
+		gap: 1rem;
+	}
+
+	img {
+		margin-top: 10rem;
+		object-fit: scale-down;
+	}
+
+	a {
+		text-decoration: none;
+		color: #fff;
+		padding: 0.75rem 1rem;
+		background-color: #a00e85;
+	}
+}

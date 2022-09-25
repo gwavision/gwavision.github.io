@@ -2,6 +2,7 @@
 	"name": "gwavision",
 	"version": "0.1.0",
 	"private": true,
+	"homepage": "https://codicate.github.io/gwavision",
 	"scripts": {
 		"start": "react-scripts start",
 		"build": "react-scripts build",
