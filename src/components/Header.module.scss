@@ -1,4 +1,18 @@
 .banner {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 0.25rem;
+
+	padding: 1rem;
+	background-color: #670075;
+	color: white;
+	font-weight: 600;
+
+	.enroll {
+		color: white;
+		transition: linear 0.25s;
+	}
 }
 
 .nav {
@@ -9,6 +23,7 @@
 	& > div {
 		max-width: 70rem;
 		margin: 0 auto;
+		padding: 0 2rem;
 
 		display: flex;
 		justify-content: space-between;
@@ -16,7 +31,7 @@
 }
 
 .logo {
-	height: 4rem;
+	height: 5rem;
 }
 
 .links {
@@ -33,9 +48,5 @@
 
 	a:hover {
 		color: #010363;
-	}
-
-	.enroll {
-		color: #125e85;
 	}
 }

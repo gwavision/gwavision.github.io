@@ -17,7 +17,7 @@
 .features {
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr;
-	gap: 2rem;
+	gap: 1.75rem;
 
 	.feature {
 		display: flex;
@@ -25,8 +25,9 @@
 		align-items: center;
 		justify-content: center;
 		gap: 1.25rem;
-		padding: 1.25rem;
+		padding: 1.75rem 1rem;
 
+		font-size: 0.95rem;
 		color: #fff;
 		background-color: #9389bc;
 		transition: linear 0.25s;
@@ -51,7 +52,8 @@
 
 .about {
 	p {
-		line-height: 1.5rem;
+		font-size: 1.15rem;
+		line-height: 2rem;
 	}
 }
 
@@ -69,7 +71,7 @@
 
 .program {
 	p {
-		line-height: 1.25rem;
+		line-height: 1.75rem;
 	}
 
 	a {

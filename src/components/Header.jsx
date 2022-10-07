@@ -5,7 +5,12 @@ import logo from 'assets/logo-full.png';
 export default function Header() {
 	return (
 		<>
-			<header className={s.banner}></header>
+			<header className={s.banner}>
+				<div>Your health is the best investment you'll ever make,</div>
+				<Link to="/enroll" className={s.enroll}>
+					enroll here!
+				</Link>
+			</header>
 			<nav className={s.nav}>
 				<div>
 					<div className={s.logo}>
@@ -17,9 +22,6 @@ export default function Header() {
 						<Link to="/">Home</Link>
 						<Link to="/article">Articles</Link>
 						<Link to="/shop">Shop</Link>
-						<Link to="/enroll" className={s.enroll}>
-							ENROLL HERE!
-						</Link>
 					</div>
 				</div>
 			</nav>

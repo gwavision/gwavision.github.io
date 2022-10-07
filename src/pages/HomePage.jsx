@@ -34,7 +34,7 @@ export default function HomePage() {
 					</div>
 				</section>
 				<section className={s.about}>
-					<h1>PROGRAM APPROACH</h1>
+					<h1>Program Approach</h1>
 					<p>
 						GWAVISION Health & Wellness Center, embraces an integrative and
 						complementary holistic medicine approach to lifestyles changes for
@@ -49,7 +49,7 @@ export default function HomePage() {
 					</p>
 				</section>
 				<section className={s.programs}>
-					<h2>PROGRAMS</h2>
+					<h2>Programs</h2>
 					<div className={s.programsContainer}>
 						<div className={s.program}>
 							<Link to="/program/nutrition">
@@ -57,9 +57,11 @@ export default function HomePage() {
 							</Link>
 							<img src={nutrition} alt="nutrition" />
 							<p>
-								GWAVISION nutritional strategies for weight management and to
-								accomplish maximum health, is based on two important concepts,
-								which are “primary...
+								Promoting optimal lifestyle changes by supporting EXCELLENT
+								NUTRITIONAL STRATEGIES to accomplish maximum and superior health
+								and wellness. Please visit the shop section to explore and read
+								more about some nutritional products. Always talk to your doctor
+								before starting or stopping any nutritional lifestyle changes.
 							</p>
 							<Link to="/program/nutrition">READ MORE</Link>
 						</div>
@@ -69,21 +71,27 @@ export default function HomePage() {
 							</Link>
 							<img src={fitness} alt="fitness" />
 							<p>
-								Physical exercise and fitness is the greatest preventive
-								medicine and an excellent method to achieve superior health.
-								GWAVISION strongly ...
+								Promoting optimal lifestyle changes by supporting PHYSICAL
+								EXERCISE AND FITNESS as an overall health and wellness,
+								anti-aging and preventive medicine. Please visit the shop
+								section to explore and read more about some high quality
+								products related to exercise and fitness. Always talk to your
+								doctor before starting any exercise program.
 							</p>
 							<Link to="/program/fitness">READ MORE</Link>
 						</div>
 						<div className={s.program}>
 							<Link to="/program/sleep">
-								<h3>Sleep</h3>
+								<h3>Sleep Hygiene</h3>
 							</Link>
 							<img src={sleep} alt="sleep" />
 							<p>
-								Developing good sleep hygiene is a very important part of
-								GWAVISION weight management concept. Several scientific research
-								studies have ...
+								Promoting optimal lifestyle changes by supporting GOOD SLEEP
+								HYGIENE to gain more energy, loose weight, have excellent
+								memory, and feel at best. Please visit the shop section to
+								explore and read about for some high quality products related to
+								sleep hygiene. Always talk to your Doctor for any changes in
+								sleep pattern habits.
 							</p>
 							<Link to="/program/sleep">READ MORE</Link>
 						</div>
@@ -92,7 +100,12 @@ export default function HomePage() {
 								<h3>Skin Care</h3>
 							</Link>
 							<img src={skincare} alt="skincare" />
-							<p>Coming Soon!</p>
+							<p>
+								Promoting optimal lifestyle changes by supporting BEAUTIFUL AND
+								HEALTHY SKIN as an overall health and wellness, anti-aging and
+								preventive medicine. Please visit the shop section for some high
+								quality product related to exercise and fitness.
+							</p>
 						</div>
 					</div>
 				</section>
