@@ -13,7 +13,7 @@ export default function EnrollPage() {
 					<h3>GWAVISION Health and Wellness Center</h3>
 					<p>
 						Long-term unresolved health concerns such as diabetes, high blood
-						pressure, obesity, gastritis, gastric ulcer, IBS, osteoarthritis,
+						pressure, obesity, gastritis, gastric ulcer, osteoarthritis,
 						arthritis, eating disorders, anorexia, bulimia, depression, anxiety
 						and much more; can be fatal, painful while creating serious
 						financial burdens. The best prevention of any complications of these
@@ -27,59 +27,69 @@ export default function EnrollPage() {
 						always been your heart desire.
 					</p>
 					<p className="emphasis">
-						When enrolling at GWAVISION Health & Wellness Center, you will get
-						high-quality service with long term health coaching for optimal
-						health.
+						GWAVISION Health & Wellness is committed to facilitate awareness and
+						education to explore high-quality health care products with long
+						term holistic health coaching for optimal health. Always talk to
+						your doctor or healthcare provider before taking any products or
+						starting any program.
 					</p>
 				</section>
 				<section>
-					<h3>Enroll:</h3>
+					<h3>
+						Excellent information with related products can be found in each
+						categories:
+					</h3>
 					<ul>
-						<li>Managing and maintaining optimal general health</li>
+						<li>
+							Managing and maintaining optimal general health (Nutrition,
+							Exercise, Sleep, skincare)
+						</li>
 						<li>
 							Managing and maintaining a healthy weight by fighting obesity and
-							complications
+							complications (Nutrition, Exercise and sleep)
 						</li>
 						<li>
 							Managing and fighting symptoms of pre-diabetes, diabetes and
-							complications
+							complications (Nutrition, Exercise, Sleep, skincare)
 						</li>
 						<li>
 							Managing and fighting symptoms of high blood pressure and
-							complications
+							complications (Nutrition, Exercise, Sleep, skincare)
 						</li>
 						<li>
 							Managing and fight symptoms of osteoporosis and osteoarthritis
+							(Exercise, Nutrition and Sleep)
 						</li>
-						<li>Managing and fighting symptoms of low energy</li>
-						<li>Managing and fighting depression and anxiety</li>
-						<li>Managing symptoms of gastric ulcer</li>
-						<li>Managing and fighting IBS</li>
-						<li>Managing and maintaining a healthy prostate.</li>
-						<li>Managing and maintaining good sleep hygiene.</li>
+						<li>
+							Managing and fighting symptoms of low energy (Nutrition, Exercise
+							and Sleep)
+						</li>
+						<li>
+							Managing and fighting depression and anxiety (Nutrition, Exercise,
+							Sleep, skincare)
+						</li>
+						<li>
+							Managing symptoms of gastric ulcer (Nutrition, Exercise, Sleep)
+						</li>
+						<li>
+							Managing and maintaining a healthy prostate. (Nutrition, Exercise,
+							Sleep)
+						</li>
+						<li>
+							Managing and maintaining good sleep hygiene. (Nutrition, Exercise,
+							Sleep, skincare)
+						</li>
 					</ul>
 				</section>
-				<section>
-					<h3>
-						Your weight loss program will be based on the following factors:
-					</h3>
-					<ul>
-						<li>A careful nutritional dietary plan approach</li>
-						<li>Healthy exercise & Fitness plan</li>
-						<li>Good sleep hygiene</li>
-						<li>Health Coaching Support</li>
-						<li>Supplemental therapeutic approach PRN</li>
-					</ul>
-				</section>
-				<div className={s.buttons}>
+				<p>Service provided by GWAVISION Health and Wellness Center</p>
+				{/* <div className={s.buttons}>
 					<Link className={s.enroll} to="enroll/nextstep">
 						Start the enrollment process
 					</Link>
 					<Link className={s.contact} to="contact">
 						Hold, I have some questions
 					</Link>
-				</div>
-				<p>Service provided by GWAVISION Health and Wellness Center</p>
+				</div> */}
 			</article>
 		</div>
 	);
