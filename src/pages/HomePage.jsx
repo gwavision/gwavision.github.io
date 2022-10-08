@@ -20,7 +20,7 @@ export default function HomePage() {
 					<div className={s.feature} onClick={() => navigate('/program')}>
 						<IoMdStopwatch />
 						<h3>Programs</h3>
-						<p>Nutrition • Fitness • Sleep • Skin Care</p>
+						<p>Nutrition • Fitness • Sleep • Skincare</p>
 					</div>
 					<div className={s.feature} onClick={() => navigate('/shop')}>
 						<IoCartOutline />
@@ -97,7 +97,7 @@ export default function HomePage() {
 						</div>
 						<div className={s.program}>
 							<Link to="/program/skincare">
-								<h3>Skin Care</h3>
+								<h3>Skincare</h3>
 							</Link>
 							<img src={skincare} alt="skincare" />
 							<p>

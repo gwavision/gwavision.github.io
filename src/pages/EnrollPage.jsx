@@ -79,7 +79,7 @@ export default function EnrollPage() {
 						Hold, I have some questions
 					</Link>
 				</div>
-				<p>Service provided by GWAVISION Health and Welln ess Center</p>
+				<p>Service provided by GWAVISION Health and Wellness Center</p>
 			</article>
 		</div>
 	);

@@ -9,10 +9,10 @@ import ShopPage from 'pages/ShopPage';
 import ArticlePage from 'pages/ArticlePage';
 import EnrollPage from 'pages/EnrollPage';
 import ProgramPage from 'pages/ProgramPage';
-import NutritionPage from 'pages/NutritionPage';
-import FitnessPage from 'pages/FitnessPage';
-import SleepPage from 'pages/SleepPage';
-import SkinCarePage from 'pages/SkinCarePage';
+import NutritionPage from 'pages/program/NutritionPage';
+import FitnessPage from 'pages/program/FitnessPage';
+import SleepPage from 'pages/program/SleepPage';
+import SkinCarePage from 'pages/program/SkinCarePage';
 
 export default function App() {
 	return (
@@ -28,7 +28,7 @@ export default function App() {
 					<Route exact path="/program/nutrition" element={<NutritionPage />} />
 					<Route exact path="/program/fitness" element={<FitnessPage />} />
 					<Route exact path="/program/sleep" element={<SleepPage />} />
-					<Route exact path="/program/skin-care" element={<SkinCarePage />} />
+					<Route exact path="/program/skincare" element={<SkinCarePage />} />
 				</Routes>
 			</main>
 			<Footer />

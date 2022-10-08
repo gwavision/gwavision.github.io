@@ -1,33 +1,33 @@
 .page {
-	max-width: 50rem;
 	margin: 0 auto;
+	max-width: 50rem;
 
 	p {
 		line-height: 1.5rem;
 	}
 }
 
-.main {
+.content {
 	display: flex;
 	align-items: flex-start;
-	gap: 8rem;
+	gap: 6rem;
 
-	.description {
+	& > div {
 		display: flex;
 		flex-direction: column;
 		align-items: flex-start;
-		gap: 1rem;
 	}
 
 	img {
-		margin-top: 10rem;
-		object-fit: scale-down;
+		margin-top: 6rem;
+		height: 14rem;
 	}
 
 	a {
+		margin-top: 2rem;
 		text-decoration: none;
 		color: #fff;
-		padding: 0.75rem 1rem;
+		padding: 0.75rem 2rem;
 		background-color: #a00e85;
 	}
 }
