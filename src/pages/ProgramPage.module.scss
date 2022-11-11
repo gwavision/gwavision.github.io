@@ -1,0 +1,28 @@
+.programs {
+	h2 {
+		text-align: center;
+	}
+
+	.programsContainer {
+		display: grid;
+		grid-template-columns: 1fr 1fr 1fr 1fr;
+		gap: 2rem;
+	}
+}
+
+.program {
+	p {
+		line-height: 1.75rem;
+	}
+
+	a {
+		text-decoration: none;
+		color: #e30dc2;
+		font-size: 0.75rem;
+	}
+
+	h3 {
+		color: #0045c5;
+		font-size: 1.25rem;
+	}
+}

@@ -2,6 +2,7 @@ import s from './ProgramPage.module.scss';
 import sleep from 'assets/sleep.png';
 import { Link } from 'react-router-dom';
 import { Helmet } from 'react-helmet';
+import ShopPage from 'pages/ShopPage';
 
 export default function SleepPage() {
 	return (
@@ -57,6 +58,7 @@ export default function SleepPage() {
 						</p>
 					</div>
 				</article>
+				<ShopPage category="sleep" />
 			</div>
 		</>
 	);

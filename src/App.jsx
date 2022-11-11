@@ -21,7 +21,7 @@ export default function App() {
 			<main className={s.main}>
 				<Routes>
 					<Route exact path="/" element={<HomePage />} />
-					<Route exact path="/shop" element={<ShopPage />} />
+					<Route exact path="/shop" element={<ShopPage category={'all'} />} />
 					<Route exact path="/article" element={<ArticlePage />} />
 					<Route exact path="/enroll" element={<EnrollPage />} />
 					<Route exact path="/program" element={<ProgramPage />} />

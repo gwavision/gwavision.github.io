@@ -2,6 +2,7 @@ import s from './ProgramPage.module.scss';
 import skincare from 'assets/skincare.png';
 import { Link } from 'react-router-dom';
 import { Helmet } from 'react-helmet';
+import ShopPage from 'pages/ShopPage';
 
 export default function SkincarePage() {
 	return (
@@ -57,6 +58,7 @@ export default function SkincarePage() {
 						</p>
 					</div>
 				</article>
+				<ShopPage category={'skincare'} />
 			</div>
 		</>
 	);

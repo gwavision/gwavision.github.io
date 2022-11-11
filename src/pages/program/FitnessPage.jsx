@@ -2,6 +2,7 @@ import s from './ProgramPage.module.scss';
 import fitness from 'assets/fitness.png';
 import { Link } from 'react-router-dom';
 import { Helmet } from 'react-helmet';
+import ShopPage from 'pages/ShopPage';
 
 export default function FitnessPage() {
 	return (
@@ -55,6 +56,7 @@ export default function FitnessPage() {
 						</p>
 					</div>
 				</article>
+				<ShopPage category={'fitness'} />
 			</div>
 		</>
 	);

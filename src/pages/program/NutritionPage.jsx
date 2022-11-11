@@ -2,6 +2,7 @@ import s from './ProgramPage.module.scss';
 import nutrition from 'assets/nutrition.png';
 import { Link } from 'react-router-dom';
 import { Helmet } from 'react-helmet';
+import ShopPage from 'pages/ShopPage';
 
 export default function NutritionPage() {
 	return (
@@ -24,14 +25,14 @@ export default function NutritionPage() {
 								and wellness
 							</b>
 						</p>
-						{/* <ul>
+						<ul>
 							<li>Duration: 6 Months or more</li>
 							<li>
 								Condition: Physical nutrition & health exercise, high blood
 								pressure, diabetes, osteoporosis and general good health.
 							</li>
 						</ul>
-						<Link to="/enroll">Enroll</Link> */}
+						<Link to="/enroll">Enroll</Link>
 					</div>
 					<div className={s.description}>
 						<h2>Nutrition</h2>
@@ -50,6 +51,7 @@ export default function NutritionPage() {
 						</p>
 					</div>
 				</article>
+				<ShopPage category={'nutrition'} />
 			</div>
 		</>
 	);
