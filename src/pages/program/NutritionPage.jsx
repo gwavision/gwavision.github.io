@@ -24,14 +24,14 @@ export default function NutritionPage() {
 								and wellness
 							</b>
 						</p>
-						<ul>
+						{/* <ul>
 							<li>Duration: 6 Months or more</li>
 							<li>
 								Condition: Physical nutrition & health exercise, high blood
 								pressure, diabetes, osteoporosis and general good health.
 							</li>
 						</ul>
-						<Link to="/enroll">Enroll</Link>
+						<Link to="/enroll">Enroll</Link> */}
 					</div>
 					<div className={s.description}>
 						<h2>Nutrition</h2>
@@ -47,11 +47,6 @@ export default function NutritionPage() {
 							Finally, the program believes, the kinds of food that a person
 							eats should be based on the individual personal choice, not just a
 							theory.
-						</p>
-						<p>
-							GWAVISION is implementing a coaching system in supporting patients
-							with the integration of both primary and secondary food to bring
-							optimal health results.
 						</p>
 					</div>
 				</article>

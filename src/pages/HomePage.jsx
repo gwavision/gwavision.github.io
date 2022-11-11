@@ -106,6 +106,7 @@ export default function HomePage() {
 								preventive medicine. Please visit the shop section for some high
 								quality product related to exercise and fitness.
 							</p>
+							<Link to="/program/sleep">READ MORE</Link>
 						</div>
 					</div>
 				</section>
