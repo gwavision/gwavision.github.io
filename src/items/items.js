@@ -44,7 +44,7 @@ const items = [
 		image: f1,
 		category: 'fitness',
 		title: '',
-		link: 'https://click.linksynergy.com/fs-bin/click?id=okRygIkS/88&offerid=1153716.4&subid=0&type=4',
+		link: 'https://click.linksynergy.com/fs-bin/click?id=okRygIkS/88&offerid=1128880.8&subid=0&type=4',
 	},
 	{
 		image: f2,

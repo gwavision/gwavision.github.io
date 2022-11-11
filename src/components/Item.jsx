@@ -1,6 +1,6 @@
 import s from './Item.module.scss';
 
-export default function Header({ image, link }) {
+export default function Item({ image, link }) {
 	return (
 		<div className={s.item}>
 			<div className={s.image}>
