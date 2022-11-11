@@ -55,7 +55,9 @@ export default function HomePage() {
 							<Link to="/program/nutrition">
 								<h3>Nutrition</h3>
 							</Link>
-							<img src={nutrition} alt="nutrition" />
+							<Link to="/program/nutrition">
+								<img src={nutrition} alt="nutrition" />
+							</Link>
 							<p>
 								Promoting optimal lifestyle changes by supporting EXCELLENT
 								NUTRITIONAL STRATEGIES to accomplish maximum and superior health
@@ -69,7 +71,9 @@ export default function HomePage() {
 							<Link to="/program/fitness">
 								<h3>Fitness</h3>
 							</Link>
-							<img src={fitness} alt="fitness" />
+							<Link to="/program/fitness">
+								<img src={fitness} alt="fitness" />
+							</Link>
 							<p>
 								Promoting optimal lifestyle changes by supporting PHYSICAL
 								EXERCISE AND FITNESS as an overall health and wellness,
@@ -84,7 +88,9 @@ export default function HomePage() {
 							<Link to="/program/sleep">
 								<h3>Sleep Hygiene</h3>
 							</Link>
-							<img src={sleep} alt="sleep" />
+							<Link to="/program/sleep">
+								<img src={sleep} alt="sleep" />
+							</Link>
 							<p>
 								Promoting optimal lifestyle changes by supporting GOOD SLEEP
 								HYGIENE to gain more energy, loose weight, have excellent
@@ -99,7 +105,9 @@ export default function HomePage() {
 							<Link to="/program/skincare">
 								<h3>Skincare</h3>
 							</Link>
-							<img src={skincare} alt="skincare" />
+							<Link to="/program/skincare">
+								<img src={skincare} alt="skincare" />
+							</Link>
 							<p>
 								Promoting optimal lifestyle changes by supporting BEAUTIFUL AND
 								HEALTHY SKIN as an overall health and wellness, anti-aging and
