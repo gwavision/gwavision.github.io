@@ -4,6 +4,7 @@ import c3 from './c3.jpg';
 import c4 from './c4.jpg';
 import f1 from './f1.jpg';
 import f2 from './f2.jpg';
+import f3 from './f3.webp';
 import n1 from './n1.jpg';
 import n2 from './n2.jpg';
 import n3 from './n3.jpg';
@@ -16,6 +17,12 @@ import s2 from './s2.jpg';
 import s3 from './s3.jpg';
 
 const items = [
+	{
+		image: c4,
+		category: 'skincare',
+		title: '',
+		link: 'https://click.linksynergy.com/fs-bin/click?id=okRygIkS/88&offerid=1082393.5&subid=0&type=4',
+	},
 	{
 		image: c1,
 		category: 'skincare',
@@ -35,12 +42,6 @@ const items = [
 		link: 'https://click.linksynergy.com/fs-bin/click?id=okRygIkS/88&offerid=455759.142&subid=0&type=4',
 	},
 	{
-		image: c4,
-		category: 'skincare',
-		title: '',
-		link: 'https://click.linksynergy.com/fs-bin/click?id=okRygIkS/88&offerid=1082393.5&subid=0&type=4',
-	},
-	{
 		image: f1,
 		category: 'fitness',
 		title: '',
@@ -53,10 +54,16 @@ const items = [
 		link: 'https://click.linksynergy.com/fs-bin/click?id=okRygIkS/88&offerid=671990.10003337&subid=0&type=4',
 	},
 	{
+		image: f3,
+		category: 'fitness',
+		title: '',
+		link: 'https://click.linksynergy.com/link?id=okRygIkS/88&offerid=455759.19713476300&type=2&murl=https%3A%2F%2Fshop.drfuhrman.com%2Fosteo-biotect%2F%3Fsku%3DSUPOSTEOSUN',
+	},
+	{
 		image: n1,
 		category: 'nutrition',
 		title: '',
-		link: 'https://click.linksynergy.com/fs-bin/click?id=okRygIkS/88&offerid=671990.10003337&subid=0&type=4',
+		link: 'https://click.linksynergy.com/link?id=okRygIkS/88&offerid=455759.19545071940&type=2&murl=https%3A%2F%2Fshop.drfuhrman.com%2Fglucose-biotect%2F%3Fsku%3DSUPGLUCOSE',
 	},
 	{
 		image: n2,

@@ -1,5 +1,6 @@
 import s from './ArticlePage.module.scss';
 import magazines from 'magazines/magazines';
+import { useNavigate } from 'react-router-dom';
 
 export default function ArticlePage() {
 	return (
@@ -14,21 +15,23 @@ export default function ArticlePage() {
 	);
 }
 
-function Item({ image, link }) {
+function Item({ image, link, item }) {
+	const navigate = useNavigate();
+
 	return (
 		<div className={s.item}>
 			<div className={s.image}>
 				<img
 					src={image}
 					alt="item"
-					// onClick={() => window.open(link, '_blank')}
+					onClick={() => window.open(link, '_blank')}
 				/>
 			</div>
-			<button
-				className={s.button}
-				//  onClick={() => window.open(link, '_blank')}
-			>
+			<button className={s.button} onClick={() => window.open(link, '_blank')}>
 				Read More
+			</button>
+			<button className={s.button} onClick={() => window.open(item, '_blank')}>
+				Recommended Product
 			</button>
 		</div>
 	);
