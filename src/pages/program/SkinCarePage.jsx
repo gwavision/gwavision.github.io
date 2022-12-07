@@ -26,13 +26,6 @@ export default function SkincarePage() {
 								quality product related to exercise and fitness.
 							</b>
 						</p>
-						<ul>
-// 							<li>Duration: 6 Months or more</li>
-// 							<li>
-// 								Condition: Physical skincare & health exercise, high blood
-// 								pressure, diabetes, osteoporosis and general good health.
-// 							</li>
-						</ul>
 						<Link to="/enroll">Read More</Link>
 					</div>
 					<div className={s.description}>
