@@ -27,13 +27,13 @@ export default function SkincarePage() {
 							</b>
 						</p>
 						<ul>
-							<li>Duration: 6 Months or more</li>
-							<li>
-								Condition: Physical skincare & health exercise, high blood
-								pressure, diabetes, osteoporosis and general good health.
-							</li>
+// 							<li>Duration: 6 Months or more</li>
+// 							<li>
+// 								Condition: Physical skincare & health exercise, high blood
+// 								pressure, diabetes, osteoporosis and general good health.
+// 							</li>
 						</ul>
-						<Link to="/enroll">Enroll</Link>
+						<Link to="/enroll">Read More</Link>
 					</div>
 					<div className={s.description}>
 						<h2>Skincare</h2>
