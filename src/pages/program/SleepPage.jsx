@@ -24,13 +24,6 @@ export default function SleepPage() {
 								hygiene to gain more energy and loose weight.
 							</b>
 						</p>
-						<ul>
-// 							<li>Duration: 6 Months or more</li>
-// 							<li>
-// 								Condition: Physical sleep & health exercise, high blood
-// 								pressure, diabetes, osteoporosis and general good health.
-// 							</li>
-						</ul>
 						<Link to="/enroll">Read More</Link>
 					</div>
 					<div className={s.description}>
