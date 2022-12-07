@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6e0eeece.css",
+    "main.js": "/static/js/main.ca1916f5.js",
+    "static/media/n5.bmp": "/static/media/n5.9fa836428232aba78ec4.bmp",
+    "static/media/n6.bmp": "/static/media/n6.c370d3efdb8002110a0a.bmp",
+    "static/media/n7.bmp": "/static/media/n7.668dcd2c744792016173.bmp",
+    "static/media/alkaline-water.jpg": "/static/media/alkaline-water.824be23c08eca318071e.jpg",
+    "static/media/homepage.png": "/static/media/homepage.6ab86fd205da497eefc6.png",
+    "static/media/diabetes.png": "/static/media/diabetes.72cad77fa71fbbbdb610.png",
+    "static/media/hypertension.jpg": "/static/media/hypertension.44550786ee203d83f489.jpg",
+    "static/media/respiratory-health.jpg": "/static/media/respiratory-health.67a343b39fe2d9e64548.jpg",
+    "static/media/n4.jpg": "/static/media/n4.fa76f12b767b28400e37.jpg",
+    "static/media/fitness.png": "/static/media/fitness.430f95b2c4c4580fc59c.png",
+    "static/media/skincare.png": "/static/media/skincare.4ba497f09a08d2c25f47.png",
+    "static/media/sleep.png": "/static/media/sleep.5218c5fa6d399fe69717.png",
+    "static/media/c3.jpg": "/static/media/c3.34c8a54e75a122a8fe2c.jpg",
+    "static/media/c4.jpg": "/static/media/c4.81fcb811a296d3d1c1f3.jpg",
+    "static/media/f1.jpg": "/static/media/f1.dccbc422c2f7223b342e.jpg",
+    "static/media/f2.jpg": "/static/media/f2.0393e8c6f7ee2ee2c1af.jpg",
+    "static/media/logo-full.png": "/static/media/logo-full.447689a9ddc36732bac6.png",
+    "static/media/c2.jpg": "/static/media/c2.5fa53fcc22713bcdb18b.jpg",
+    "static/media/nutrition.png": "/static/media/nutrition.8baa64f841c26bc0f11d.png",
+    "static/media/f3.webp": "/static/media/f3.d814417b47c637b843cf.webp",
+    "static/media/s1.jpg": "/static/media/s1.457070781503744b1c83.jpg",
+    "static/media/n2.jpg": "/static/media/n2.d95844fcd2e1ac2d582c.jpg",
+    "static/media/n1.jpg": "/static/media/n1.f374c5d07ce91cc00457.jpg",
+    "static/media/s2.jpg": "/static/media/s2.5e504568d3e785db7bb7.jpg",
+    "index.html": "/index.html",
+    "main.6e0eeece.css.map": "/static/css/main.6e0eeece.css.map",
+    "main.ca1916f5.js.map": "/static/js/main.ca1916f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e0eeece.css",
+    "static/js/main.ca1916f5.js"
+  ]
+}
