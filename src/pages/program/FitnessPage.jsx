@@ -25,13 +25,6 @@ export default function FitnessPage() {
 								preventive medicine
 							</b>
 						</p>
-						<ul>
-// 							<li>Duration: 6 Months or more</li>
-// 							<li>
-// 								Condition: Physical fitness & health exercise, high blood
-// 								pressure, diabetes, osteoporosis and general good health.
-// 							</li>
-						</ul>
 						<Link to="/enroll">Read More</Link>
 					</div>
 					<div className={s.description}>
