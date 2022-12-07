@@ -14,7 +14,7 @@ const magazines = [
 		image: m2,
 		title: '',
 		link: '/magazines/CPD2%20Hypertension%20%20Revise.pdf',
-		item: 'https://click.linksynergy.com/link?id=okRygIkS/88&offerid=455759.19339673568&type=2&murl=https%3A%2F%2Fshop.drfuhrman.com%2Fprenatal-multivitamin%2F%3Fsku%3DSUPPRENATAL',
+		item: 'https://click.linksynergy.com/link?id=okRygIkS/88&offerid=775817.20658267544&type=2&murl=https%3A%2F%2Fwww.professionalsupplementcenter.com%2Fnitric-oxide-support-by-pure-encapsulations%3Fquantity%3D1&LSNSUBSITE=LSNSUBSITE',
 	},
 	{
 		image: m3,
