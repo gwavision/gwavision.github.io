@@ -29,7 +29,7 @@ export default function Footer() {
 						incorporation of material or any part of it in any work or
 						publication, whether in hard copy, electronic, or any other form
 					</p>
-					<p className={s.disclaimer}>© 2022 GWAVISION Health & Wellness</p>
+					<p className={s.disclaimer}>© 2024 GWAVISION Health & Wellness</p>
 				</div>
 				<div className={s.links}>
 					<div>
