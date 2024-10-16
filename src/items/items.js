@@ -1,7 +1,6 @@
 import c1 from './c1.jpg';
 import c2 from './c2.jpg';
 import c3 from './c3.jpg';
-import c4 from './c4.jpg';
 import f1 from './f1.jpg';
 import f2 from './f2.jpg';
 import f3 from './f3.webp';
@@ -14,33 +13,8 @@ import n6 from './n6.bmp';
 import n7 from './n7.bmp';
 import s1 from './s1.jpg';
 import s2 from './s2.jpg';
-import s3 from './s3.jpg';
 
 const items = [
-	{
-		image: c4,
-		category: 'skincare',
-		title: '',
-		link: 'https://click.linksynergy.com/fs-bin/click?id=okRygIkS/88&offerid=1082393.5&subid=0&type=4',
-	},
-	{
-		image: c1,
-		category: 'skincare',
-		title: '',
-		link: 'https://click.linksynergy.com/fs-bin/click?id=okRygIkS/88&offerid=455759.142&subid=0&type=4',
-	},
-	{
-		image: c2,
-		category: 'skincare',
-		title: '',
-		link: 'https://click.linksynergy.com/fs-bin/click?id=okRygIkS/88&offerid=455759.142&subid=0&type=4',
-	},
-	{
-		image: c3,
-		category: 'skincare',
-		title: '',
-		link: 'https://click.linksynergy.com/fs-bin/click?id=okRygIkS/88&offerid=455759.142&subid=0&type=4',
-	},
 	{
 		image: f1,
 		category: 'fitness',
@@ -114,10 +88,22 @@ const items = [
 		link: 'https://shop.drfuhrman.com/sinus-biotect-allergy-support/?sku=SUPSINUS',
 	},
 	{
-		image: s3,
-		category: 'sleep',
+		image: c1,
+		category: 'skincare',
 		title: '',
-		link: 'https://click.linksynergy.com/fs-bin/click?id=okRygIkS/88&offerid=1153716.4&subid=0&type=4',
+		link: 'https://click.linksynergy.com/fs-bin/click?id=okRygIkS/88&offerid=455759.142&subid=0&type=4',
+	},
+	{
+		image: c2,
+		category: 'skincare',
+		title: '',
+		link: 'https://click.linksynergy.com/fs-bin/click?id=okRygIkS/88&offerid=455759.142&subid=0&type=4',
+	},
+	{
+		image: c3,
+		category: 'skincare',
+		title: '',
+		link: 'https://click.linksynergy.com/fs-bin/click?id=okRygIkS/88&offerid=455759.142&subid=0&type=4',
 	},
 ];
 
