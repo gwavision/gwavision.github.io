@@ -29,6 +29,11 @@ export default function Footer() {
 						incorporation of material or any part of it in any work or
 						publication, whether in hard copy, electronic, or any other form
 					</p>
+					<p className={s.disclaimer}> <b>
+						The information and opinions within this content are for information purposes only.
+						Guidance is based on personal interpretations and in no way represents legal advice
+						</b>
+					</p>
 					<p className={s.disclaimer}>© 2024 GWAVISION Health & Wellness</p>
 				</div>
 				<div className={s.links}>
