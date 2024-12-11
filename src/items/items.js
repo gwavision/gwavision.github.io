@@ -28,6 +28,12 @@ import a11 from './a11.webp';
 
 const items = [
 	{
+		image: n4,
+		category: 'nutrition',
+		title: '',
+		link: 'https://click.linksynergy.com/fs-bin/click?id=okRygIkS/88&offerid=775817.3&subid=0&type=4&LSNSUBSITE=LSNSUBSITE',
+	},
+	{
 		image: a02,
 		category: 'fitness',
 		title: '',
@@ -94,18 +100,6 @@ const items = [
 		link: 'https://click.linksynergy.com/deeplink?id=okRygIkS/88&mid=815&murl=https%3A%2F%2Fclick.linksynergy.com%2Flink%3FLSNSUBSITE%3DLSNSUBSITE%26id%3DokRygIkS%252F88%26m',
 	},
 	{
-		image: f1,
-		category: 'fitness',
-		title: '',
-		link: 'https://click.linksynergy.com/fs-bin/click?id=okRygIkS/88&offerid=1128880.8&subid=0&type=4',
-	},
-	{
-		image: f2,
-		category: 'fitness',
-		title: '',
-		link: 'https://click.linksynergy.com/fs-bin/click?id=okRygIkS/88&offerid=671990.10003337&subid=0&type=4',
-	},
-	{
 		image: f3,
 		category: 'fitness',
 		title: '',
@@ -125,12 +119,6 @@ const items = [
 	},
 	{
 		image: n3,
-		category: 'nutrition',
-		title: '',
-		link: 'https://click.linksynergy.com/fs-bin/click?id=okRygIkS/88&offerid=775817.3&subid=0&type=4&LSNSUBSITE=LSNSUBSITE',
-	},
-	{
-		image: n4,
 		category: 'nutrition',
 		title: '',
 		link: 'https://click.linksynergy.com/fs-bin/click?id=okRygIkS/88&offerid=775817.3&subid=0&type=4&LSNSUBSITE=LSNSUBSITE',
