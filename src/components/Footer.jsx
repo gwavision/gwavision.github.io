@@ -22,19 +22,23 @@ export default function Footer() {
 						<BsYoutube />
 					</div>
 					<p className={s.disclaimer}>
-						Disclaimer: Reproduction of part or all of the contents in any form
-						of this web site is expressly prohibited other than for individual
-						use only and may not be recopied and shared with a third party. The
-						permission to recopy by an individual does not allow for
-						incorporation of material or any part of it in any work or
-						publication, whether in hard copy, electronic, or any other form
+						Disclaimer: Reproduction of part or all of the contents in any form of this web 
+						site is expressly prohibited other than for individual use only and may not be recopied 
+						and shared with a third party. The permission to recopy by an individual does not allow 
+						for incorporation of material or any part of it in any work or publication, whether 
+						in hard copy, electronic, or any other form
 					</p>
-					<p className={s.disclaimer}> <b>
+					<p className={s.disclaimer}>
 						The information and opinions within this content are for information purposes only.
 						Guidance is based on personal interpretations and in no way represents legal advice
-						</b>
+					<p className={s.disclaimer}>
+					Disclaimer: The information and opinions within this content are for information purposes only. 
+					Guidance is based on personal interpretations and in no way represents legal advice. 
+					DISCLOSURE: The posts may contain affiliate links, 
+					meaning when you click the links and make a purchase, we receive a commission
 					</p>
-					<p className={s.disclaimer}>© 2024 GWAVISION Health & Wellness</p>
+					</p>
+					<p className={s.disclaimer}>© 2024 GWAVISION™ Health & Wellness</p>
 				</div>
 				<div className={s.links}>
 					<div>

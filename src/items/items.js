@@ -1,8 +1,6 @@
 import c1 from './c1.jpg';
 import c2 from './c2.jpg';
 import c3 from './c3.jpg';
-import f1 from './f1.jpg';
-import f2 from './f2.jpg';
 import f3 from './f3.webp';
 import n1 from './n1.jpg';
 import n2 from './n2.jpg';
@@ -16,7 +14,6 @@ import s2 from './s2.jpg';
 
 import a01 from './a01.png';
 import a02 from './a02.webp';
-import a03 from './a03.avif';
 import a04 from './a04.jpg';
 import a05 from './a05.webp';
 import a06 from './a06.jpg';
@@ -38,12 +35,6 @@ const items = [
 		category: 'fitness',
 		title: '',
 		link: 'https://click.linksynergy.com/link?id=okRygIkS%2f88&offerid=1069311.4785043780727013624&type=2&murl=https%3a%2f%2fkeynutrients.com%2fproducts%2felectrolyte-recovery-plus%3fvariant%3d4378072701362',
-	},
-	{
-		image: a03,
-		category: 'fitness',
-		title: '',
-		link: 'https://click.linksynergy.com/link?id=okRygIkS%2f88&offerid=775817.4574616402&type=2&murl=https%3a%2f%2fwww.professionalsupplementcenter.com%2fd3-k2-liquid-by-davinci-labs%3fquantity%3d1&LSNSUBSITE=LSNSUBSITE',
 	},
 	{
 		image: a04,
