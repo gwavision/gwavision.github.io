@@ -25,12 +25,6 @@ import a11 from './a11.webp';
 
 const items = [
 	{
-		image: n4,
-		category: 'nutrition',
-		title: '',
-		link: 'https://click.linksynergy.com/fs-bin/click?id=okRygIkS/88&offerid=775817.3&subid=0&type=4&LSNSUBSITE=LSNSUBSITE',
-	},
-	{
 		image: a02,
 		category: 'fitness',
 		title: '',
@@ -85,12 +79,6 @@ const items = [
 		link: 'https://click.linksynergy.com/link?id=okRygIkS%2f88&offerid=1593288.503638389271747676283449&type=2&murl=https%3a%2f%2fwww.korres.com%2fproducts%2fgolden-krocus-hydra-filler-plumping-cream%3fvariant%3d34289899175995',
 	},
 	{
-		image: a01,
-		category: 'fitness',
-		title: '',
-		link: 'https://click.linksynergy.com/deeplink?id=okRygIkS/88&mid=815&murl=https%3A%2F%2Fclick.linksynergy.com%2Flink%3FLSNSUBSITE%3DLSNSUBSITE%26id%3DokRygIkS%252F88%26m',
-	},
-	{
 		image: f3,
 		category: 'fitness',
 		title: '',
@@ -101,18 +89,6 @@ const items = [
 		category: 'nutrition',
 		title: '',
 		link: 'https://click.linksynergy.com/link?id=okRygIkS/88&offerid=455759.19545071940&type=2&murl=https%3A%2F%2Fshop.drfuhrman.com%2Fglucose-biotect%2F%3Fsku%3DSUPGLUCOSE',
-	},
-	{
-		image: n2,
-		category: 'nutrition',
-		title: '',
-		link: 'https://click.linksynergy.com/fs-bin/click?id=okRygIkS/88&offerid=775817.3&subid=0&type=4&LSNSUBSITE=LSNSUBSITE',
-	},
-	{
-		image: n3,
-		category: 'nutrition',
-		title: '',
-		link: 'https://click.linksynergy.com/fs-bin/click?id=okRygIkS/88&offerid=775817.3&subid=0&type=4&LSNSUBSITE=LSNSUBSITE',
 	},
 	{
 		image: n5,
@@ -143,24 +119,6 @@ const items = [
 		category: 'sleep',
 		title: '',
 		link: 'https://shop.drfuhrman.com/sinus-biotect-allergy-support/?sku=SUPSINUS',
-	},
-	{
-		image: c1,
-		category: 'skincare',
-		title: '',
-		link: 'https://click.linksynergy.com/fs-bin/click?id=okRygIkS/88&offerid=455759.142&subid=0&type=4',
-	},
-	{
-		image: c2,
-		category: 'skincare',
-		title: '',
-		link: 'https://click.linksynergy.com/fs-bin/click?id=okRygIkS/88&offerid=455759.142&subid=0&type=4',
-	},
-	{
-		image: c3,
-		category: 'skincare',
-		title: '',
-		link: 'https://click.linksynergy.com/fs-bin/click?id=okRygIkS/88&offerid=455759.142&subid=0&type=4',
 	},
 ];
 
