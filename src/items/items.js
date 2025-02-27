@@ -67,12 +67,6 @@ const items = [
 		link: 'https://click.linksynergy.com/link?id=okRygIkS%2f88&offerid=775817.4574683221&type=2&murl=https%3a%2f%2fwww.professionalsupplementcenter.com%2fblood-pressure-factors-by-michaels-health%3fquantity%3d1%26size%3d2517&LSNSUBSITE=LSNSUBSITE',
 	},
 	{
-		image: a10,
-		category: 'skincare',
-		title: '',
-		link: 'https://click.linksynergy.com/link?id=okRygIkS%2f88&offerid=1593288.503639714962086523974968&type=2&murl=https%3a%2f%2fwww.korres.com%2fproducts%2fwhite-pine-meno-reverse%e2%84%a2-deep-wrinkle-plumping-age-spot-concentrate%3fvariant%3d41255284015163',
-	},
-	{
 		image: a11,
 		category: 'skincare',
 		title: '',
