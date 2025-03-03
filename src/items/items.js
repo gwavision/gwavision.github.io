@@ -37,18 +37,6 @@ const items = [
 		link: 'https://click.linksynergy.com/link?id=okRygIkS%2f88&offerid=775817.4574624381&type=2&murl=https%3a%2f%2fwww.professionalsupplementcenter.com%2fraw-organic-fit-high-protein-weight-loss-by-garden-of-life%3fquantity%3d1%26flavor%3d2%26size%3d1987&LSNSUBSITE=LSNSUBSITE',
 	},
 	{
-		image: a05,
-		category: 'nutrition',
-		title: '',
-		link: 'https://click.linksynergy.com/link?id=okRygIkS%2f88&offerid=1057101.4786932232411988017&type=2&murl=https%3a%2f%2fdrinklemonkind.com%2fproducts%2f3-day-juice-cleanse-24-pack-lemonkind%3fvariant%3d32232411988017&LSNSUBSITE=LSNSUBSITE',
-	},
-	{
-		image: a06,
-		category: 'fitness',
-		title: '',
-		link: 'https://click.linksynergy.com/link?id=okRygIkS%2f88&offerid=936056.47096969805117&type=2&murl=https%3a%2f%2fus.mbt.com%2fwomen-s-fuji-sym-boot-grey-703083-20y.html',
-	},
-	{
 		image: a07,
 		category: 'fitness',
 		title: '',
